@@ -116,6 +116,8 @@ body{
     }
     .converter-container .input-container{
         border: none;
+         width: 200px;
+}
     }
     .converter-container .input-container input,.converter-container .input-container select{
         width: 100%;
