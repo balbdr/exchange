@@ -104,27 +104,3 @@ body{
     }
 }
 
-@media screen and (mim-width: 300px) and (max-width: 1000px){
-    .converter-container{
-        width: 60%;
-        
-        margin: 0 auto;
-        
-    }
-    .converter-container h1{
-        font-size: 25px
-    }
-    .converter-container .input-container{
-        border: none;
-         
-}
-    }
-    .converter-container .input-container input,.converter-container .input-container select{
-        width: 100%;
-        border: 1px solid rgb(82, 165, 204);
-        margin-block: 4px ;
-
-    }
-}
-
-
