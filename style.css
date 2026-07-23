@@ -23,7 +23,8 @@ body{
     text-align: center;
     border: none;
     width: 100%px;
-    height: 740px;
+   /* height: 740px;*/
+     min-height: 100vh;
 
 }
 .converter-container h1{
