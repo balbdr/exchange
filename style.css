@@ -11,6 +11,7 @@ body{
     align-items: center;
     min-height: 100vh;
     background-color: rgb(109, 169, 238);
+      background: linear-gradient(145deg,#23f3bb,#0a0244);
 }
 
 .converter-container{
@@ -31,9 +32,17 @@ body{
     margin-bottom: 40px ;
 
 }
+.converter-container{
+    background-image: url("ima/me2 png.png" );
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+/*
 .converter-container .logo{
     margin-left: -250px;
 }
+*/
 .converter-container input{
     
     border: 2px solid rgb(42, 74, 90);
