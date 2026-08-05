@@ -32,18 +32,19 @@ body{
     margin-bottom: 40px ;
 
 }
+/*
 .converter-container{
     background-image: url("ima/me1234.png" );
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
 }
+*/
 
-/*
 .converter-container .logo{
     margin-left: -250px;
 }
-*/
+
 .converter-container input{
     
     border: 2px solid rgb(42, 74, 90);
